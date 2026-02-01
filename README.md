@@ -84,6 +84,6 @@ The objective is to classify reviews as **positive (1)** or **negative (0)** usi
 - Business decision support systems
 
   
-### 🔹 Model Accuracy Comparison
+## 🔹 Model Accuracy Comparison
 ![Model Comparison](images/model_comparison.png)
 
