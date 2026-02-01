@@ -73,7 +73,7 @@ The objective is to classify reviews as **positive (1)** or **negative (0)** usi
 
 ## 🏆 Conclusion
 - All models successfully classified sentiment from Amazon reviews
-- Gradient Boosting Classifier achieved the best overall performance
+- Logistic Regression achieved the best overall performance
 - The project demonstrates how ML can automate large-scale customer feedback analysis
 
 
@@ -82,4 +82,8 @@ The objective is to classify reviews as **positive (1)** or **negative (0)** usi
 - Product improvement analysis
 - Automated review classification
 - Business decision support systems
+
+  
+### 🔹 Model Accuracy Comparison
+![Model Comparison](images/model_comparison.png)
 
